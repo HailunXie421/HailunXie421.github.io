@@ -96,7 +96,7 @@ function renderInfo(items) {
   if (!container) return;
   container.innerHTML = (items || []).map(item => `
     <div class="info-item">
-      <div class="info-icon">${item.icon || '-'}</div>
+      <div class="info-icon">${item.icon && item.icon.includes('/') ? `<img src="${item.icon}" alt="" />` : item.icon || '-'}</div>
       <div>
         <p class="info-title">${item.title || ''}</p>
         ${item.url
@@ -157,3 +157,4 @@ async function main() {
 }
 
 main();
+
