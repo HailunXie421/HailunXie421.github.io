@@ -1,7 +1,7 @@
 {
   "siteName": "Xie Hailun",
   "name": "Xie Hailun",
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-14",
   "info": [
     {
       "icon": "@",
@@ -11,11 +11,11 @@
       "label": "hailunxie@mail.bnu.edu.cn"
     },
     {
-      "icon": "<>",
+      "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       "title": "GitHub",
       "subtitle": "",
-      "url": "https://github.com/your-github-username",
-      "label": "github.com/your-github-username"
+      "url": "https://github.com/HailunXie421",
+      "label": "github.com/HailunXie421"
     }
   ]
 }
