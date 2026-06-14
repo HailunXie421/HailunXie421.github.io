@@ -1,0 +1,8 @@
+{
+  "title": "Wright",
+  "summary": "Wright is an AI-powered IELTS writing practice tool built with vibe coding. It features AI scoring, sample essay generation, grammar and vocabulary insights, and writing practice exercises. Built with Flask and JavaScript, it runs locally.",
+  "repoUrl": "https://github.com/your-github-username/wright",
+  "imageUrl": "assets/wright-screenshot.png",
+  "imageAlt": "Screenshot of the Wright IELTS writing assistant",
+  "videoUrl": ""
+}

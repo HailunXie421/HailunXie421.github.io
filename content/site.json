@@ -1,0 +1,21 @@
+{
+  "siteName": "Xie Hailun",
+  "name": "Xie Hailun",
+  "lastUpdated": "2026-06-09",
+  "info": [
+    {
+      "icon": "@",
+      "title": "Email",
+      "subtitle": "hailunxie@mail.bnu.edu.cn",
+      "url": "mailto:hailunxie@mail.bnu.edu.cn",
+      "label": "hailunxie@mail.bnu.edu.cn"
+    },
+    {
+      "icon": "<>",
+      "title": "GitHub",
+      "subtitle": "",
+      "url": "https://github.com/your-github-username",
+      "label": "github.com/your-github-username"
+    }
+  ]
+}
