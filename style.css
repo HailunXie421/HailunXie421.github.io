@@ -105,13 +105,15 @@ h1 {
   align-items: start;
 }
 .info-icon { color: var(--accent); font-size: 13px; line-height: 1.5; text-align: center; }
+.info-icon img { width: 14px; height: 14px; display: block; margin-top: 3px; opacity: 0.82; }
 .info-title { margin: 0; font-size: 12px; font-weight: 500; color: var(--ink-2); line-height: 1.5; }
 .info-subtitle { margin: 1px 0 0; font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;font-size: 12px;color: var(--muted);}
 
 .content-flow {
   min-width: 0;
-  width: min(880px, 100%);
-  padding: 44px clamp(24px, 5vw, 60px) 44px;
+  width: min(1040px, 100%);
+  margin: 0 auto;
+  padding: 44px clamp(28px, 4vw, 56px) 44px;
 }
 
 .section {
@@ -133,7 +135,7 @@ h2 {
   text-transform: uppercase;
 }
 
-.prose { color: var(--ink-2); max-width: 820px; }
+.prose { color: var(--ink-2); max-width: 900px; }
 .prose p { margin: 0 0 12px; font-size: 15px; line-height: 1.7; }
 
 .compact-list { display: grid; gap: 18px; }
