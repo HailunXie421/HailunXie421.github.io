@@ -1,4 +1,4 @@
-# About me
+# ABOUT ME
 
 Hi, I'm Hailun. I'm actively applying for PhD programs, with research interests in the intersection of large language models and human language processing.
 
